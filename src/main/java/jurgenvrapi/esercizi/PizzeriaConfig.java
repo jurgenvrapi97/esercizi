@@ -25,7 +25,7 @@ public class PizzeriaConfig {
         Topping prosciutto = new Topping();
         prosciutto.setNome("Prosciutto");
         prosciutto.setPrezzo(0.69);
-        prosciutto.setCalorie(1200);
+        prosciutto.setInformazioniNutrizionali("1200 calorei");
 
         prodotti.add(prosciutto);
 
